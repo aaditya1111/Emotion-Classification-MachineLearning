@@ -22,7 +22,7 @@ Getting Started
 -------
 1. Get a copy of the code onto your local repository :
 
-  ```git clone https://github.com/akasantony/pulse-classification-svm.git```
+  ```git clone https://github.com/aaditya1111/Emotion-Classification-MachineLearning.git```
 
 2. Run ```python script.py``` to load the training dataset and class labels as a NumPy array.
 
