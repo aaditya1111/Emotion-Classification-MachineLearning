@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 
-__author__ = "Akas Antony"
+__author__ = "Aaditya Kumar Rai"
 __version__ = "1.0.0"
-__maintainer__ = "Akas Antony"
-__email__ = "antony.akas@gmail.com"
+__maintainer__ = "Aaditya Kumar Rai"
+__email__ = "raiaaditya999@gmail.com"
 
 class PlotGraph:
 	def plot(self,dataSet):
