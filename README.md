@@ -1,6 +1,6 @@
 pulse-classification-svm
 ========================
-A simple classifier that takes in age and pulse rate as features and classifies the emotion using an [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine) classifier. Training data is present under ```assets/training_data/datasets.txt```
+A simple classifier that takes in age and pulse rate as features and classifies the emotion using a [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine) classifier. Training data is present under ```assets/training_data/datasets.txt```
 
 Introduction
 -------
